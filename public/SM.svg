@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 166.667px;
+        fill: #db2777;
+        font-family: "Britannic Bold";
+      }
+    </style>
+  </defs>
+  <text id="SM" class="cls-1" x="5" y="175">SM</text>
+</svg>
