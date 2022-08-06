@@ -32,10 +32,19 @@ const About = () => {
                         </p>
                         
                     </div>
-                    <div className='flex flex-row justify-center items-center w-full h-full'>
-                        <button className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'>LinkedIn</button>
-                        <button className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'>GitHub</button>
-                        <button className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'>Resume</button>
+                    <div className='justify-center items-center w-full h-full'>
+                        <a className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'
+                        href='https://www.linkedin.com/in/syed-malik-73512516/'>
+                            LinkedIn
+                        </a>
+                        <a className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'
+                        href='https://github.com/symalik'>
+                            GitHub
+                        </a>
+                        <a className='text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 m-8 flex items-center'
+                        href='https://symalik.github.io/Resume/Syed_Malik_Resume.pdf'>
+                            Resume
+                        </a>
                     </div>
                 </div>
                 
