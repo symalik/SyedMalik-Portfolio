@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/SyedMalik-Portfolio/static/css/main.ca07eee8.css",
-    "main.js": "/SyedMalik-Portfolio/static/js/main.191be500.js",
-    "static/media/realestate.jpg": "/SyedMalik-Portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/Weather.png": "/SyedMalik-Portfolio/static/media/Weather.089cb3d157876cf7666d.png",
-    "static/media/EurekaApp.png": "/SyedMalik-Portfolio/static/media/EurekaApp.123cef811132adc14a23.png",
-    "static/media/workImg.jpeg": "/SyedMalik-Portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/react.png": "/SyedMalik-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/EurekaAPI.png": "/SyedMalik-Portfolio/static/media/EurekaAPI.4c892f74328c1f3378f6.png",
-    "static/media/node.png": "/SyedMalik-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/github.png": "/SyedMalik-Portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/SMlogo.png": "/SyedMalik-Portfolio/static/media/SMlogo.5071e740fe420b8a5e7d.png",
-    "static/media/Hangman.png": "/SyedMalik-Portfolio/static/media/Hangman.5854f2f1be72c0c3e7e5.png",
-    "static/media/Calculator.png": "/SyedMalik-Portfolio/static/media/Calculator.91eab351266eb0ef2415.png",
-    "static/media/html.png": "/SyedMalik-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/SyedMalik-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/javascript.png": "/SyedMalik-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/c.svg": "/SyedMalik-Portfolio/static/media/c.a7ec03d256f307422701fb3e4c812f76.svg",
-    "index.html": "/SyedMalik-Portfolio/index.html",
-    "main.ca07eee8.css.map": "/SyedMalik-Portfolio/static/css/main.ca07eee8.css.map",
-    "main.191be500.js.map": "/SyedMalik-Portfolio/static/js/main.191be500.js.map"
+    "main.css": "/static/css/main.ca07eee8.css",
+    "main.js": "/static/js/main.20820ec1.js",
+    "static/media/realestate.jpg": "/static/media/realestate.44fd19f4c6872731149c.jpg",
+    "static/media/Weather.png": "/static/media/Weather.089cb3d157876cf7666d.png",
+    "static/media/EurekaApp.png": "/static/media/EurekaApp.123cef811132adc14a23.png",
+    "static/media/workImg.jpeg": "/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/EurekaAPI.png": "/static/media/EurekaAPI.4c892f74328c1f3378f6.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/SMlogo.png": "/static/media/SMlogo.5071e740fe420b8a5e7d.png",
+    "static/media/Hangman.png": "/static/media/Hangman.5854f2f1be72c0c3e7e5.png",
+    "static/media/Calculator.png": "/static/media/Calculator.91eab351266eb0ef2415.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/c.svg": "/static/media/c.a7ec03d256f307422701fb3e4c812f76.svg",
+    "index.html": "/index.html",
+    "main.ca07eee8.css.map": "/static/css/main.ca07eee8.css.map",
+    "main.20820ec1.js.map": "/static/js/main.20820ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.ca07eee8.css",
-    "static/js/main.191be500.js"
+    "static/js/main.20820ec1.js"
   ]
 }
